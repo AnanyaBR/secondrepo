@@ -1,3 +1,5 @@
 Im on second repo
 name: Ananya
 Last Name : Naik
+Comapny Name: Codebrahma
+Location: Bangalore
