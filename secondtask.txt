@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 Im on second repo
 name: Ananya
 Last Name : Naik
 Comapny Name: Codebrahma
 Location: Bangalore
 hello writing it on master baranch on 2nd october
+
+writing on secondbranch
+
